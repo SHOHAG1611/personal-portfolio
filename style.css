@@ -8,6 +8,7 @@ h1{
    }
    section{
        display: flex;
+       margin-bottom: 200px;
    }
    .width{
        width: 50%;
@@ -39,4 +40,10 @@ h1{
    body{
        margin: 0;
    }
+   .about-me{
+    background-image: url(Untitled\ design\ \(7\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+   }
+
    
