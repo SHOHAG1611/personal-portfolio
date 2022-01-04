@@ -4,7 +4,7 @@ h1{
     
    }
    .SHOHAG{
-       color: orange;
+       color: greenyellow;
    }
    section{
        display: flex;
@@ -32,3 +32,11 @@ h1{
        border-radius: 5%;
        font-weight: 700;
    }
+   .background-color{
+       background-image: url(Untitled\ design\ \(7\).png);
+       background-repeat: no-repeat;
+   }
+   body{
+       margin: 0;
+   }
+   
