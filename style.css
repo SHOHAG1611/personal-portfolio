@@ -3,10 +3,13 @@ h1{
     font-size: 40px;
     
    }
+   h2{
+       font-size: 30px;
+   }
    .SHOHAG{
        color: greenyellow;
    }
-   section{
+   .flexible-container{
        display: flex;
        margin-bottom: 200px;
    }
@@ -44,6 +47,19 @@ h1{
     background-image: url(Untitled\ design\ \(7\).png);
     background-repeat: no-repeat;
     background-position: right;
+   }
+   .experience-item{
+       box-shadow: 10px 10px 50px rgb(77, 73, 80);
+       width: 40%;
+       margin: 5% 5%;
+       padding-left: 15px;
+       border-radius: 10px;
+   }
+   .experience-area{
+       background-image: url(Untitled\ design\ \(8\).png);
+       background-repeat: no-repeat;
+       background-position: inherit;
+
    }
 
    
