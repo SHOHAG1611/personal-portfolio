@@ -61,5 +61,16 @@ h1{
        background-position: inherit;
 
    }
+   #baby-devoloper{
+       border-left: 7px solid;
+       border-image: linear-gradient(blue,rgb(218, 108, 172));
+       border-image-slice: 1;
+       
+   }
+   #stack-devoloper{
+       border-left: solid;
+       border-image: linear-gradient(orange,white);
+       border-image-slice: 1;
+   }
 
    
